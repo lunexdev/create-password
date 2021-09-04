@@ -1,0 +1,1 @@
+declare function generate(length?: Number): string
