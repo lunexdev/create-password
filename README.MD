@@ -4,11 +4,11 @@
 # example
 
 ```js
-const pass = require('create-password')
+const pass = require('create-pass')
 pass(16)
 ```
 ```ts
-import pass from 'create-password'
+import pass from 'create-pass'
 pass(16)
 ```
 
