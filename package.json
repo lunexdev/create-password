@@ -1,5 +1,5 @@
 {
-  "name": "create-password",
+  "name": "create-pass",
   "version": "1.0.0",
   "description": "Simple Password Generator",
   "main": "main.js",
