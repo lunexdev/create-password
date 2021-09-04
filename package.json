@@ -1,0 +1,26 @@
+{
+  "name": "create-password",
+  "version": "1.0.0",
+  "description": "Simple Password Generator",
+  "main": "main.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunexdev/create-password.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "create",
+    "password"
+  ],
+  "author": "lunex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunexdev/create-password/issues"
+  },
+  "homepage": "https://github.com/lunexdev/create-password#readme"
+}
